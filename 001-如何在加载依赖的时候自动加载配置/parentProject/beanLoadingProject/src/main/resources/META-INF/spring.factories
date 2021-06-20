@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.demo.way1.config.ConfigBeans,\
+com.demo.way2.config.ConfigScan
